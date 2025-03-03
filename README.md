@@ -1,4 +1,4 @@
-# Curso de Manejo de Datos 2024-1
+# Curso de Manejo de Datos 
 
 Este repositorio contiene los códigos y recursos utilizados en el curso de Manejo de Datos. En este curso, aprenderás las habilidades necesarias para manipular, analizar datos de manera efectiva.
 
